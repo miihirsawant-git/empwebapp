@@ -1,0 +1,6 @@
+customhost = "RDS_Endpoint_Name"
+customuser = "RDP_admin_name"
+custompass = "RDP_admin_pass"
+customdb = "employee"
+custombucket = "practice1labs-addemployee"
+customregion = "ca-central-1"
